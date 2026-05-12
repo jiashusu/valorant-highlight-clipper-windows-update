@@ -1,8 +1,8 @@
 {
-    "version":  "v1.3.1-windows",
+    "version":  "v1.3.2-windows",
     "html_url":  "https://github.com/jiashusu/valorant-highlight-clipper-windows/releases/latest",
-    "tag_name":  "v1.3.1-windows",
-    "notes":  "Fix update check, Explorer file reveal, and larger preview layout.",
+    "tag_name":  "v1.3.2-windows",
+    "notes":  "Custom dark title bar, author link, Chinese/English UI toggle, improved esport UI, and fixed Explorer reveal.",
     "download_url":  "https://github.com/jiashusu/valorant-highlight-clipper-windows/releases/latest",
     "updated_at":  "2026-05-12T00:00:00-05:00"
 }
