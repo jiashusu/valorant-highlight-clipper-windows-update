@@ -1,10 +1,10 @@
 {
-  "tag_name": "v1.4.1-windows",
-  "version": "v1.4.1-windows",
-  "html_url": "https://github.com/jiashusu/valorant-highlight-clipper-windows/releases/tag/v1.4.1-windows",
-  "download_url": "https://github.com/jiashusu/valorant-highlight-clipper-windows/releases/tag/v1.4.1-windows",
-  "asset_url": "https://github.com/jiashusu/valorant-highlight-clipper-windows/releases/download/v1.4.1-windows/ValorantHighlightClipper.exe",
-  "published_at": "2026-05-13T20:19:14.861631+00:00",
-  "message_zh": "\u53d1\u73b0 Windows \u65b0\u7248\u672c v1.4.1\uff1a\u540c\u6b65 mac \u9ed1\u7070 UI\u3001\u4e13\u5c5e Logo\uff0c\u5e76\u4fee\u590d\u89c6\u9891\u5217\u8868\u957f\u8def\u5f84\u663e\u793a\u3002",
-  "message_en": "Windows v1.4.1 is available with the mac-style dark UI, app logo, and full path display fix."
+  "tag_name": "v1.4.2-windows",
+  "version": "v1.4.2-windows",
+  "html_url": "https://github.com/jiashusu/valorant-highlight-clipper-windows/releases/tag/v1.4.2-windows",
+  "download_url": "https://github.com/jiashusu/valorant-highlight-clipper-windows/releases/tag/v1.4.2-windows",
+  "asset_url": "https://github.com/jiashusu/valorant-highlight-clipper-windows/releases/download/v1.4.2-windows/ValorantHighlightClipper.exe",
+  "published_at": "2026-05-14T00:40:17.560771+00:00",
+  "message_zh": "\u53d1\u73b0 Windows \u65b0\u7248\u672c v1.4.2\uff1a\u65b0\u589e\u53c2\u6570\u63d0\u793a\u3001\u9884\u8ba1\u8017\u65f6\u63d0\u793a\u548c\u526a\u8f91\u4e2d\u6309\u94ae\u72b6\u6001\u3002",
+  "message_en": "Windows v1.4.2 is available with parameter hints, estimated time hints, and a running button state."
 }
